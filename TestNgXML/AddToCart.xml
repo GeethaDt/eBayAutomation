@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel ="tests" name="Suite">
+<listeners>
+    <listener class-name="eBayTest.TestComponents.Listener"/>
+</listeners>
+<test thread-count="5" name="Add Item To Cart Test">
+    <classes>
+      <class name="eBayTest.Tests.AddItemToCartTest"/>
+    </classes>
+  </test> 
+</suite> 
+
+    
