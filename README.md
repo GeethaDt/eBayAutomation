@@ -49,9 +49,6 @@ Senior Software Test Engineer
 7+ Years of Experience | Selenium | Java | TestNG | POM | Jenkins | GitHub  
 Domain Experience: Healthcare, Wealth Management, Banking
 
-##GitHub Repository Link
-
-https://github.com/your-username/eBayAutomation
 
 ##Note:
    * Although the requirement screenshot shows '2' in the cart icon,
